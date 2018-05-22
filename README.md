@@ -4,7 +4,7 @@ ulordrig is a high performance Ulord CPU miner, with official support for Linux 
 
 #### Table of contents
 * [Features](#features)
-* [Install](#Install)
+* [Install](#install)
 * [Usage](#usage)
 * [Common Issues](#common-issues)
 * [Other information](#other-information)
@@ -34,7 +34,9 @@ ulordrig is a high performance Ulord CPU miner, with official support for Linux 
 
 
 ## Usage
-As an example of testnet: `./ulordrig -o stratum+tcp://test-pool.ulord.one:7200 -u uTRHNH71eiW2KMc2rSwmanpXGgDeKMZXdW.worker1 -p x -t 1`
+### Example    
+mainnet: `./ulordrig -o stratum+tcp://main-pool.ulorders.com:18888 -u Uj2ubGNrCUmZ6ib6rs3Jrp9bz76zKAfYyq.main -p x -t 1`    
+testnet: `./ulordrig -o stratum+tcp://test-pool.ulord.one:7200 -u uTRHNH71eiW2KMc2rSwmanpXGgDeKMZXdW.test -p x -t 1`
 ### Options
 ```    
   -o, --url=URL            URL of mining server
