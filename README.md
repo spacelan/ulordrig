@@ -98,7 +98,8 @@ Please note performance is highly dependent on system load. The numbers above ar
 
 ## Release checksums
 ### SHA-256
-
+* ulordrig-linux-v1.0.0.tar.gz  6658fd5d6f20127716fb5cec56080eb9dc0a62a218caf787d91001e4e01faf58
+* ulordrig-win-v1.0.0.zip 75c04e847739a0ca1e038fdecc8d7c45750ba00e6df337a2a560993b865a9dbb
 
 
 ## Contacts
